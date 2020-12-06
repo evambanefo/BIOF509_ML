@@ -1,2 +1,0 @@
-curl --create-dirs --output "/Users/Eva/evambanefo/BIOF509_ML/build_opencv/opencv-4.5.0/.cache/ippicv/1c3d675c2a2395d094d523024896e01b-ippicv_2020_mac_intel64_20191018_general.tgz" "https://raw.githubusercontent.com/opencv/opencv_3rdparty/a56b6ac6f030c312b2dce17430eef13aed9af274/ippicv/ippicv_2020_mac_intel64_20191018_general.tgz"
-curl --create-dirs --output "/Users/Eva/evambanefo/BIOF509_ML/build_opencv/opencv-4.5.0/.cache/ade/b624b995ec9c439cbc2e9e6ee940d3a2-v0.1.1f.zip" "https://github.com/opencv/ade/archive/v0.1.1f.zip"
