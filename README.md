@@ -25,7 +25,7 @@ I used data from breast cancer histology to develop a model for breast cancer pr
 # The tool
 1. We build a work in progress tool that prompts user to input readings from data from an image, with limited number of information enough to predict the cancer malignancy.
 2. User is prompted to enter as many data as needed at the prompt of the cursor with short instruction on expected data.
-3. Once up to 4 o teh important variables have been provided, the tool will perform prediction internally and spit back the cancer classification.
+3. Once up to 4 of the important variables have been provided, the tool will perform prediction internally and spit back the cancer classification.
 =======
 
 
