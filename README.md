@@ -1,8 +1,11 @@
-# BIOF509_ML
+# BIOF509_ML FInal Project by Evaristus Mbanefo
 Applied Machine Learning
 
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> a97fbff6281a7b275dcfe82cc1a12b3206b8e4ae
 # Requirement
 1. Python 2.7 or later
 2. Access to internet
@@ -15,6 +18,7 @@ https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_breast_c
 2. Attempt to predict cancer malignancy in situation where some variables are missing. Found that only 4 variables can accurately predict cancer
 
 
+<<<<<<< HEAD
 # How to use
 1. The first section attempted to build the model using both k-means and linear regression for predicting cancer malignancy
 2. The second section selected 4 variables from the 31 variables used in the model and attempted to show that we still get accurate prediction  of malignancy using a subset of the models
@@ -22,3 +26,7 @@ https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_breast_c
 
 # The tool
 1. We build a work in progress tool that prompts user to input readings from data from an image, with limited number of information enough to predict the cancer malignancy
+=======
+
+
+>>>>>>> a97fbff6281a7b275dcfe82cc1a12b3206b8e4ae
