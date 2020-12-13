@@ -14,9 +14,7 @@ Applied Machine Learning
 https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_breast_cancer.html
 
 # Objective
-1. Use data extracted from cancer histology images to learn pattern to predict cancer malignancy 
-2. Attempt to predict cancer malignancy in situation where some variables are missing. Found that only 4 variables can accurately predict cancer
-
+I used data from breast cancer histology to develop a model for breast cancer prediction. Then based on a subset of the variables, I was able to create a new tool (User interface) that prompts user to enter as much data as is available, and then predict the disease very accurately. 
 
 <<<<<<< HEAD
 # How to use
@@ -25,7 +23,9 @@ https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_breast_c
 3. This is very useful for missing data or when using equipment that do  not capture the entire range of data
 
 # The tool
-1. We build a work in progress tool that prompts user to input readings from data from an image, with limited number of information enough to predict the cancer malignancy
+1. We build a work in progress tool that prompts user to input readings from data from an image, with limited number of information enough to predict the cancer malignancy.
+2. User is prompted to enter as many data as needed at the prompt of the cursor with short instruction on expected data.
+3. Once up to 4 o teh important variables have been provided, the tool will perform prediction internally and spit back the cancer classification.
 =======
 
 
